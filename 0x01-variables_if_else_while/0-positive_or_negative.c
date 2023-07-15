@@ -1,12 +1,9 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there */
+
 /**
  * main - Entry point of the program
- *
- * Description: This function assigns a random number to the variable `n` each time it is executed.
- *              It then prints whether the number stored in `n` is positive, zero, or negative.
  *
  * Return: Always 0 (indicating success)
  */
